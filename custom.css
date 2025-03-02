@@ -1,0 +1,182 @@
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+.btn-book-now {
+    background-color: transparent!important;
+    border: 3px solid #FFFFFF!important;
+    border-radius: 8px!important;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 19.5px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #ffffff;
+    padding: 15px 30px!important;
+}
+.hamberger {
+    width: 32px;
+    height: auto; /* Ensures the icon maintains aspect ratio */
+}
+
+.menu {
+    display: flex!important;
+justify-content: center!important;
+list-style: none;
+font-family: NanumMyeongjo;
+font-weight: 700;
+font-size: 18px;
+line-height: 22.5px;
+letter-spacing: 0%;
+}
+
+.header .container {
+    width: 100%; /* 100% width for responsiveness */
+    max-width: 1440px;
+    margin: 0 auto; /* Centers the container */
+    
+}
+.footer .container {
+    width: 100%; /* 100% width for responsiveness */
+    max-width: 1440px;
+    margin: 0 auto; /* Centers the container */
+
+}
+
+
+.btn-book-now {
+    background-color: transparent!important;
+    border: 3px solid #FFFFFF!important;
+    border-radius: 8px!important;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 19.5px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #ffffff;
+    padding: 15px 30px!important;
+}
+
+.hamberger {
+    width: 32px;
+    height: auto; /* Ensures the icon maintains aspect ratio */
+}
+.menu {
+    display: flex!important;
+justify-content: center!important;
+list-style: none;
+font-family: NanumMyeongjo;
+font-weight: 700;
+font-size: 18px;
+line-height: 22.5px;
+letter-spacing: 0%;
+
+}
+.menu, a{
+    text-decoration: none!important;
+    font-family: 'NanumMyeongjo';
+    font-weight: 700;
+    font-size: 18px!important;
+    line-height: 22.5px;
+    letter-spacing: 0%;
+    color: #ffff;
+    }
+
+.heading{
+list-style: none;
+font-family: 'NanumMyeongjo';
+font-weight: 700;
+font-size: 22px;
+line-height: 27.5px;
+letter-spacing: 0%;
+color: #CC3300;
+}
+.list , li{
+list-style: none;
+font-family: Poppins;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0%;
+color: #1E1E1E;
+}
+
+.content{
+width: 372px;
+font-family: 'NanumMyeongjo';
+font-weight: 800;
+font-size: 14px;
+line-height: 14px;
+letter-spacing: -2%;
+}
+.offering-img{
+    width: 1321px;
+    height: 412px;
+}
+
+.middle-section {
+    background: #FFDEA4 !important;
+    padding: 60px 60px;
+}
+
+.learn-btn{
+width: 202;
+height: 57;
+gap: 10px;
+border-radius: 16px;
+padding-top: 15px;
+padding-right: 30px;
+padding-bottom: 15px;
+padding-left: 30px;
+background: #CC3300;
+font-family: Poppins;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.heading-banner{
+font-family: 'NanumMyeongjo';
+font-weight: 700;
+font-size: 56px;
+line-height: 70px;
+letter-spacing: 0%;
+text-align: center;
+color:#ffff;
+padding: 0px 163px 30px 193px;
+}
+.paragraph-text{
+font-family: Montserrat;
+font-weight: 400;
+font-size: 18px;
+line-height: 21.94px;
+letter-spacing: 0%;
+text-align: center;
+color:#ffff;
+}
+
+.heading-section{
+    padding-bottom: 100px;
+}
+
+
+.footer{
+    padding:60px 60px;
+}
+
+.header-section{
+padding-bottom: 200px;
+}
+.footer-middle-part{
+padding-top: 120px;
+}
